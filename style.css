@@ -1,0 +1,46 @@
+.header{
+	background-color: black;
+	width: 100%;
+	height: 50px;
+	position: fixed;
+}
+
+img {
+	position:fixed;
+    width:15%;
+    height:auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 5px;
+    background: transparent;
+}
+
+body {
+	background-image: url("background1.jpg");
+ 	background-color: #cccccc;
+
+}
+
+h1,h2 {
+	text-align: center;
+}
+
+
+.main-form {
+ width: 700px;
+ margin: auto;
+ padding: 60px 60px 60px 60px; 	
+ background-color: rgba(224,213,192, .9);
+ border-radius: 5px;
+}
+
+footer {
+	text-align: center;
+    padding: 5px 0;
+    font-size: 14px;
+	margin: auto;
+	background-color: rgba(0,0,0, .8);
+	width: 100%;
+	height: 25px;
+	text-align: center;
+}
